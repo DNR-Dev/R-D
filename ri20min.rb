@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 # just to test git
+# another test
+
 
 class MegaGreeter
   attr_accessor :names
